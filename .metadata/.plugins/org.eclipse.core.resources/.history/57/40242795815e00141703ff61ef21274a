@@ -1,7 +1,0 @@
-package com.mysquar.mymusicplayer;
-
-public class MusicTrack {
-	private String mp3URI;
-	private String thumbnailURI;
-	
-}
