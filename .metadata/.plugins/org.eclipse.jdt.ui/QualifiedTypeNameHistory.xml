@@ -1,2 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="android.widget.ImageView"/>
+<fullyQualifiedTypeName name="com.mysquar.mymusicplayer.R.id"/>
+<fullyQualifiedTypeName name="android.widget.TextView"/>
+<fullyQualifiedTypeName name="android.widget.ImageButton"/>
+<fullyQualifiedTypeName name="android.widget.SeekBar"/>
+<fullyQualifiedTypeName name="com.mysquar.mymusicplayer.MusicTrack"/>
+<fullyQualifiedTypeName name="android.content.res.Resources"/>
+<fullyQualifiedTypeName name="com.mysquar.mymusicplayer.R.drawable"/>
+<fullyQualifiedTypeName name="com.mysquar.mymusicplayer.R.raw"/>
+<fullyQualifiedTypeName name="android.media.MediaPlayer"/>
+</qualifiedTypeNameHistroy>

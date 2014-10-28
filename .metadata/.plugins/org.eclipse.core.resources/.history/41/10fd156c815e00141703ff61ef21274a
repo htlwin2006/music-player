@@ -1,0 +1,5 @@
+package com.mysquar.mymusicplayer;
+
+public class MusicTrack {
+
+}

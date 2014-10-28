@@ -1,0 +1,33 @@
+package com.mysquar.mymusicplayer;
+
+public class MusicTrack {
+	private String mp3URI;
+	private String thumbnailURI;
+	
+	/**
+	 * 
+	 * @param mp3URI uri of mp3
+	 * @param thumbnailURI
+	 */
+	public MusicTrack(String mp3URI,String thumbnailURI) {
+		this.mp3URI = mp3URI;
+		this.thumbnailURI = thumbnailURI;
+	}
+	
+	public String getMp3URI() {
+		return mp3URI;
+	}
+	
+	public String getThumbnailURI() {
+		return thumbnailURI;
+	}
+	
+	public void setMp3URI(String mp3uri) {
+		mp3URI = mp3uri;
+	}
+	
+	public void setThumbnailURI(String thumbnailURI) {
+		this.thumbnailURI = thumbnailURI;
+	}
+	
+}
