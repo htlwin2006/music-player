@@ -8,3 +8,6 @@
 # Generated files
 appcompat_v7/bin/
 appcompat_v7/gen/
+.metadata/
+MyMusicPlayer/bin/
+MyMusicPlayer/gen/
